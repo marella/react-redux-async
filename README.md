@@ -55,7 +55,7 @@ export default () =>
   <div>
     <h1>My App</h1>
 -   <MyComponent />
-+   <Async load={() => import('./MyComponent')}
++   <Async load={() => import('./MyComponent')} />
   </div>
 ```
 
