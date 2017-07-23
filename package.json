@@ -1,6 +1,6 @@
 {
   "name": "react-redux-async",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Load react components and redux reducers asynchronously. Useful for code splitting and lazy loading.",
   "main": "cjs/index.js",
   "module": "es/index.js",
